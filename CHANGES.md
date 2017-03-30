@@ -3,6 +3,7 @@
 * Add support for per-client configuration.
 * Simplify TLS configuration.
 * Allow dtab fallback when consul returns an empty address set.
+* Expire and prune metrics which are idle for 24 hours.
 
 ## 0.9.1 2017-03-15
 
